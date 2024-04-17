@@ -18,5 +18,5 @@ Different Classifer performances were observed:
  4.Gradient Boosting
  5.SVM
 
-4.**Results**
+**4. Results**
 Given these results, the Random Forest model could be considered the best candidate for predicting customer churn, due to its robustness and ability to handle imbalanced datasets effectively.
